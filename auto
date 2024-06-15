@@ -1,0 +1,49 @@
+                                Actuador
+                                  |
+              +-------------------+-------------------+
+              |                                       |
+   Tipos Principales                         Principios de Funcionamiento
+              |                                       |
++-------------+-------------+          +--------------+--------------+
+|             |             |          |              |              |
+Eléctricos Neumáticos Hidráulicos Eléctricos Neumáticos Hidráulicos
+              |                                       |
++-------------+-------------+          +--------------+--------------+
+|             |             |          |              |              |
+Motor       Compresor     Bomba     Motor gira      Aire             Fluido 
+eléctrico   de aire       hidráulica husillo de     comprimido       hidráulico
+engranajes, válvulas de   válvulas, bolas          mueve            presurizado
+husillo de  control,      cilindro, convierte      pistón           mueve pistón
+bolas,      cilindro,     pistón,   movimiento     adelante         produce 
+sensores    pistón        fluido    rotativo en    y atrás          movimiento
+                         hidráulico movimiento 
+                                    lineal
+              |                                       |
+   Componentes y Funcionamiento             Aplicaciones Industriales
+              |                                       |
++-------------+-------------+          +--------------+--------------+
+|             |             |          |              |              |
+Motor        Compresor     Bomba      Robótica       Aeronáutica  Automatización 
+eléctrico    de aire       hidráulica Control de     Control de   Industrial
+engranajes,  válvulas de   válvulas,  brazos         superficies  líneas de 
+husillo de   control,      cilindro,  robóticos      de vuelo      producción
+bolas,       cilindro,     pistón,    y partes       (alerones,    mover,
+sensores     pistón        fluido     móviles        flaps)        levantar y
+                         hidráulico                               manipular
+                                                                   objetos
+              |                                       |
+   Eficiencia y Mantenimiento
+              |
++-------------+-------------+
+|             |             |
+Eléctricos  Neumáticos   Hidráulicos
+              |
++-------------+-------------+
+|             |             |
+Alta         Inspección    Revisión
+eficiencia   de líneas     del fluido
+energética   de aire y     hidráulico
+             válvulas      y válvulas
+             para          para evitar
+             prevenir      fugas
+             fugas
